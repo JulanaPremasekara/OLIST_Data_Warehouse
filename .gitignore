@@ -1,0 +1,3 @@
+# Large local Olist data and SQL Server backup artifacts
+Olist_Renamed_Queries_v3/Olist_Data/olist_geolocation_dataset.csv
+Olist_Renamed_Queries_v3/Olist_Data_Warhouse_Backups/*.bak
